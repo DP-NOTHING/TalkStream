@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "217366310231",
+    "project_id": "talkstream-ae03a",
+    "storage_bucket": "talkstream-ae03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217366310231:android:17583d6d7e2544751b6212",
+        "android_client_info": {
+          "package_name": "com.example.talkstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217366310231-it4s0o02vkaiqhfq9pgn7mgjghkh5ah9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkstream",
+            "certificate_hash": "cbe5f7f8ef3411d2705032f0140c17481f778efd"
+          }
+        },
+        {
+          "client_id": "217366310231-4f6cu5bkopckqqoov7psftt1be2npme5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgB1HaxKl7V37vP9a9hZ9XNZBVTbqpggU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217366310231-4f6cu5bkopckqqoov7psftt1be2npme5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217366310231-h1quva2kpbhniptgf0kcss5i1cnchku6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterZoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
