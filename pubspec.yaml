@@ -34,3 +34,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/onboarding.jpg
+    - assets/images/log.png
